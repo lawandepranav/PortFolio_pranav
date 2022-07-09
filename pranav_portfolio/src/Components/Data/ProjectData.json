@@ -1,33 +1,33 @@
 [
     {
         "id": 1,
-        "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1627221619121/aZfhQTOB9.jpeg?auto=compress,format&format=webp",
+        "img": "https://newsmobile.in/wp-content/uploads/2018/12/licious.png",
         "name": "Licious(clone)",
-        "desc": "An e-commerce web application dealing with the sale of sports items in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS.",
+        "desc": "An e-commerce web application dealing with the online sale of all types of meats in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS.",
         "github": "https://github.com/AbrarHyder/licious-clone",
-        "link": "",
+        "link": "https://dulcet-peony-5485ab.netlify.app",
         "tech":[
             "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
         ]
     },
     {
         "id": 2,
-        "img": "",
+        "img": "https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/uploads/2014/05/zostel.png?tr=w-600%2Ch-300%2Cfo-auto",
         "name": "Zostel (clone)",
-        "desc": "An e-commerce website where one can purchase various electronic products. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
-        "github": "",
-        "link": "",
+        "desc": "An e-commerce website where one can book world class hospitality service in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
+        "github": "https://github.com/SanjanaSinghh/Zostel-Clone",
+        "link": "https://graceful-marigold-6caa51.netlify.app",
         "tech":[
-            "https://github.com/Vinesh3124/Vinesh3124.github.io/blob/main/src/Components/Images/MERN.png?raw=true"
+            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
         ]
     },
     {
         "id": 3,
-        "img": "",
-        "name": "",
-        "desc": "About YouTube Our mission is to give everyone a voice and show them the world.",
-        "github": "",
-        "link": "",
+        "img": "https://www.inventiveinfosys.com/wp-content/uploads/2020/07/beautybebo.png",
+        "name": "Beauty Bebo (clone)",
+        "desc": "An e-commerce website where one can order all types of beauty products in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
+        "github": "https://github.com/nisKULDEEP/Beauty-Bebo",
+        "link": "https://playful-narwhal-a2fca0.netlify.app",
         "tech":[
             "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
         ]
