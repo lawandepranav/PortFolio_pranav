@@ -23,13 +23,13 @@
     },
     {
         "id": 3,
-        "img": "https://www.inventiveinfosys.com/wp-content/uploads/2020/07/beautybebo.png",
-        "name": "Beauty Bebo (clone)",
-        "desc": "An e-commerce website where one can order all types of beauty products in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
-        "github": "https://github.com/nisKULDEEP/Beauty-Bebo",
-        "link": "https://playful-narwhal-a2fca0.netlify.app",
+        "img": "https://www.mobihealthnews.com/sites/default/files/Screen%20Shot%202021-09-16%20at%2010.54.57%20AM.png",
+        "name": "Pharmeasy (clone)",
+        "desc": "PharmEasy is an Indian company involved in selling online medicines, diagnostics and telehealth.This was a team project where I with my teammates had created. Tech Stack which we used in this project is React.js, CSS, JS, NodeJs, React Redux.",
+        "github": "https://github.com/gauravsft/pharmeasy.in-clone",
+        "link": "https://pharmeasy-clone-react.netlify.app/",
         "tech":[
-            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXmkRydcwl6hs9DG2vg1tlqKfsvwa4RXrSw&usqp=CAU"
         ]
     }
     
