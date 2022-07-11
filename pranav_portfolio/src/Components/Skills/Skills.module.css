@@ -16,13 +16,13 @@
 }
 
 .iconBox{
-    width: 10%;
-    height: 50px;
+    width: 17%;
+    height: 80px;
     margin-left: 11%;
     margin-top: 5%;
     /* border-radius: 50%; */
     padding: 5px;
-    border-radius: 0px;
+    border-radius: 5px;
     background: white;
     box-shadow:  6px 6px 12px #aaa7a5,
                  -6px -6px 12px #ffffff;

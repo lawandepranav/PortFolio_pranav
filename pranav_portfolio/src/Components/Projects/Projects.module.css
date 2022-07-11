@@ -13,6 +13,7 @@
 .logoImg{
     width: 100%;
     height: 100%;
+
     /* object-fit: contain; */
 }
 
@@ -70,8 +71,8 @@
 
 .projectCardStack{
     display: flex;
-    width: 50%;
-    height: auto;
+    width: 70%;
+    height: 200px;
     margin: auto;
     margin-top: 1%;
     /* border: 1px solid; */
@@ -211,7 +212,7 @@
     .projectCardStack{
         display: flex;
         width: 50%;
-        height: 30px;
+        height: 50px;
         margin: auto;
         margin-top: 15%;
         /* border: 1px solid; */
@@ -250,8 +251,8 @@
     }
     .projectCardStack{
         display: flex;
-        width: 50%;
-        height: 40px;
+        width: 60%;
+        height: 70px;
         margin: auto;
         /* border: 1px solid; */
     }
