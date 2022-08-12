@@ -67,7 +67,7 @@ const Contact = () => {
                         color="secondary"
                         startIcon={< EmailIcon/>}
                     >
-                        <a href="mailto:riteshkamthe01@gmail.com" className={styles.dTag} download>
+                        <a href="mailto:lawandepranav96@gmail.com" className={styles.dTag} download>
                             Email
                         </a>
                     </Button>
